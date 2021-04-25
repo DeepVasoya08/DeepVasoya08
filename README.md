@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DeepVasoya
-- 👀 I’m interested in AI/ML and Full stack development
-- 🌱 I’m currently learning Javasctipt and Python
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently working on Javasctipt and Python
 - 💞️ I’m looking to collaborate on any projects related to full stack development
 - 📫 How to reach me via deepvasoya08@gmail.com or +91 7984372159
 
